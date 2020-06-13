@@ -2,5 +2,7 @@
 
 
 usa
-ndia
+India
+Canada
+Uk
 nepal
